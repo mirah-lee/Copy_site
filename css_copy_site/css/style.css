@@ -419,6 +419,7 @@ a {
     width: 10%;
 }
 .container main .box7 .info_title li p{
+    height: 16px;
     text-transform: none;
 }
 
