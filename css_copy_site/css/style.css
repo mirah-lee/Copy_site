@@ -205,7 +205,7 @@ a {
 .container main .box3 {/* grid-container */
     display: grid;
     grid-template-columns: repeat(4, 1fr);
-    height: 100vh;
+    height: auto;
     grid-auto-rows: 33.33332%;
 }
 .container main .box3 .imgbox1{
